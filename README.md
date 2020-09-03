@@ -86,7 +86,7 @@ ls
 python ohbasic.py
 ```
 
-### Update Tool
+### Single Line Command
 ```
 $ pkg install python && pkg install git && git clone https://github.com/OnlineHacKing/OH-Basic && cd OH-Basic && chmod +x * && python ohbasic.py
 ```
