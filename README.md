@@ -55,31 +55,36 @@ termux-setup-storage.
 
 ### ☣️ Installation and Usage Guide
 ```
-$ apt-get update
+apt-get update
 ```
 ```
-$ pkg install python
+pkg install python
 ```
 ```
-$ pkg install git
+pkg install git
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/OH-Basic
+git clone https://github.com/OnlineHacKing/OH-Basic
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ cd OH-Basic
+cd OH-Basic
 ```
 ```
-$ chmod +x *
+chmod +x *
 ```
 ```
-$ ls
+ls
 ```
 ```
-$ python .py
+python .py
+```
+
+### Update Tool
+```
+$ 
 ```
 
 
