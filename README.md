@@ -51,7 +51,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 This command for access the storage in termux 
 termux-setup-storage.
 
-# ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
+# ■□■□■□■□ Commands □■□■□■□■
 
 ### ☣️ Installation and Usage Guide
 ```
