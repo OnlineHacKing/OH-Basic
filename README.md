@@ -16,66 +16,81 @@ Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
-![unnamed (2)](https://i.pinimg.com/originals/5b/46/b2/5b46b2ad5b4b292295d395b98fa3eb3c.png)
+![unnamed (2)]()
 
 
-### ☢️ PREREQUISITES
+### ☢️ REREQUISITES
 
 * python
 
-### 🌀 IpDorp is Available for
+### ♊️ Tool Installs This packages
+ 
+ -  python
+ -  python2
+ -  python2-dev
+ -  python3
+ -  git
+ -  php 
+ -  perl 
+ -  bash
+ -  nano
+ -  curl
+ -  openssl
+ -  openssh
+ -  wget
+ -  clang
+ -  help
+ -  nmap
+ -  w3m
+ -  hydra
+ -  ruby
+ -  macchanger
+ -  dnsutils
+ -  coreutils
+ -  host
 
-* Termux
+
+This command for access the storage in termux 
+termux-setup-storage.
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
 ### ☣️ Installation and Usage Guide
 ```
-$ apt-get update -y
+$ apt-get update
 ```
 ```
-$ apt-get upgrade -y
+$ pkg install python
 ```
 ```
-$ pkg install python -y 
+$ pkg install git
 ```
 ```
-$ pkg install python2 -y
-```
-```
-$ pkg install git -y
-```
-```
-$ pip install requests
+$ git clone https://github.com/OnlineHacKing/OH-Basic
 ```
 ```
 $ ls
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/IpDorp.git
+$ cd OH-Basic
+```
+```
+$ chmod +x *
 ```
 ```
 $ ls
 ```
 ```
-$ cd IpDorp
+$ python .py
 ```
-```
-$ ls
-```
-```
-$ python IpDorp.py -v (your victim ip here)
-```
-ex:- python ipdrone.py -v 127.0,0.1
 
-Hurray... you got his location with some more information
 
 ### 📱SCREENSHOT 📲
 ![Shot](https://i.pinimg.com/originals/1a/08/7c/1a087cada9a414c70a360ea5cfbb9140.png)
 
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
+https://www.youtube.com/OnlineHacking
 
 ### Chekout our webite 
 www.onlinehacking-net.cf
