@@ -89,7 +89,7 @@ $ pkg install python && pkg install git && git clone https://github.com/OnlineHa
 
 
 ### 📱SCREENSHOT 📲
-![Shot](https://i.pinimg.com/originals/1a/08/7c/1a087cada9a414c70a360ea5cfbb9140.png)
+![Shot](https://raw.githubusercontent.com/OnlineHacKing/OH-Basic/master/Screenshot_20200903-084359~2.png)
 
 
 ### Subscribe our channel on youtube
