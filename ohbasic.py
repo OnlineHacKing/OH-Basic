@@ -81,7 +81,7 @@ os.system ("apt install hydra -y")
 
 
 print ("""
-subscribe Online Hacking """)
+Subscribe Online Hacking """)
 
 os.system ("apt install ruby -y")
 os.system ("apt install macchanger -y")
