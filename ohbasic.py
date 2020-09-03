@@ -22,7 +22,7 @@ print (''' \033[95m
 +--------------------------------------+
 | This Tool Install All Basic Packages |
 +--------------------------------------+
-| Coded By VPP Hacker | version : 2.0  |
+| Coded By Online Hacking | version : 2.0  |
 +--------------------------------------+''')
 
 slowprint(''' \033[93m
@@ -81,7 +81,7 @@ os.system ("apt install hydra -y")
 
 
 print ("""
-subscribe VPP Hacker """)
+subscribe Online Hacking """)
 
 os.system ("apt install ruby -y")
 os.system ("apt install macchanger -y")
@@ -100,7 +100,7 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|             Welcome To Hackers World            |
+slowprint('''\033[95m|             Welcome To Online Hacking            |
 |           Subscribe Our YouTube Channel         |
 | Watch Ours Tutorials For Learn Ethical Hacking  |''')
 print("+-------------------------------------------------+")
