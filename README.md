@@ -79,12 +79,12 @@ chmod +x *
 ls
 ```
 ```
-python .py
+python ohbasic.py
 ```
 
 ### Update Tool
 ```
-$ 
+$ pkg install python && pkg install git && git clone https://github.com/OnlineHacKing/OH-Basic && cd OH-Basic && chmod +x * && python ohbasic.py
 ```
 
 
