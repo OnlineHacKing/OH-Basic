@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">IP Location Generator - OnlineHacking</h1>
+<h1 align="center">Termux Basic Packages - OnlineHacking</h1>
 <p align="center">
-  Location Generator 
+  Termux Basic Packages 
 </p>
 
 <a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
