@@ -100,7 +100,7 @@ $ pkg install python && pkg install git && git clone https://github.com/OnlineHa
 https://www.youtube.com/OnlineHacking
 
 ### Chekout our webite 
-www.onlinehacking-net.cf
+www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
 
@@ -111,7 +111,7 @@ www.onlinehacking-net.cf
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Website :- http://www.onlinehacking-net.cf
+Website :- http://www.onlinehacking-net.com
 
 YouTube Channel :- https://bit.ly/on9youtube
 
