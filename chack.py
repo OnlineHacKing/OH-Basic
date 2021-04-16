@@ -36,8 +36,6 @@ print ("                                            ")
 choice = input("\033[93mDo You Want to Install All Packages [y/n] : ")
 if choice == 'n' : sys.exit()
 if choice == 'y' : os.system ("apt update")
-
-os.system (" os.system (" pkg update -y")
 os.system ("pkg upgrade -y")
 os.system (" pkg install python -y")
 os.system ("pkg install python2 -y")
