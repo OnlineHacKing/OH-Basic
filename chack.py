@@ -91,7 +91,6 @@ os.system ("apt update && apt upgrade -y")
 print ("wait for second and start hacking")
 
 
-os.system (" os.system (" pkg update -y")
 os.system ("pkg upgrade -y")
 os.system (" pkg install python -y")
 os.system ("pkg install python2 -y")
